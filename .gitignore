@@ -1,3 +1,6 @@
+*.db
+*.bak
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
@@ -6,6 +9,7 @@
 *.fls
 *.out
 *.toc
+*.pdf
 
 ## Intermediate documents:
 *.dvi
